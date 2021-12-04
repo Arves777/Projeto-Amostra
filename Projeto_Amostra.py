@@ -33,7 +33,7 @@ def texto(msg,cor,tam,x,y):
 superficie = display.set_mode((largura, altura))
 superficie.blit(fundo, (0 , 0))
 display.set_caption("Amostra Científica 2021")
-
+#  Game Over
 GAME_OVER = False
 
 class Nave(Sprite):

@@ -70,6 +70,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma **issue** ou
 
 ---
 
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
 ## ✨ Agradecimentos  
 A todos os desenvolvedores e comunidades de código aberto que tornam projetos como este possíveis. 🚀  
 
